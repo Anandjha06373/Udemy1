@@ -1,0 +1,65 @@
+.App{
+    background-color: rgb(31, 236, 75);
+    border: 3px solid #f1f1f1;
+    width:350px;
+    height: 270px;
+    margin: 5px 0 22px 0;
+   display: inline-block;
+   position:center;
+   left:auto;
+}
+.App-1{
+    background-color: rgb(98, 235, 223);
+    border: 3px solid #f1f1f1;
+    width:350px;
+    height: 270px;
+    margin: 5px 0 22px 0;
+   display: inline-block;
+   position:center;
+   left:auto;
+}
+.container-1 {
+    padding: 16px;
+  }
+.btn-1 {
+    background-color:rgb(160, 60, 206);
+    color: white;
+    padding: 10px 12px;
+    margin: 2px 0;
+    border-radius:10px;
+    cursor: pointer;
+    width: 40%;
+  }
+.email{
+    padding: 7px;
+    margin:25px 10px;
+    border-radius: 7px;
+}
+.password{
+    padding: 7px;
+    margin:28px 10px;
+    border-radius: 7px;
+}
+.label{
+        font-size: 20px;
+        color: deeppink;
+    }
+.span{
+    color: red;
+}
+.text-info{
+    color: blue;
+    
+}
+.container-2{
+    width:400px;
+    height: 12px;
+    align-items: center;
+}
+.ps{
+    padding: 3px 3px;
+    margin: 3px 4px;
+
+}
+
+  

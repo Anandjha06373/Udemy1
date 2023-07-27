@@ -1,0 +1,30 @@
+video{
+    width:100%;
+    aspect-ratio:16/9;
+    margin: -7px 4px;
+    
+    
+}
+.container-1{
+    background-color: rgba(236, 232, 226, 0.959);
+    width: 500px;
+    margin: auto;
+}
+.btn{
+    background-color: white; 
+    color: rgba(0, 0, 0, 0.932); 
+    border: 1px solid #02020fe7;
+    width:60px;
+}
+.btn-5{
+    background-color: white; 
+    border: 1px solid #02020fe7;
+    margin:8px;
+    width:60px;
+}
+p{
+    color: black;
+}
+span{
+    color: orange;
+}

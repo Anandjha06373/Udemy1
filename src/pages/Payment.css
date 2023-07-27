@@ -1,0 +1,20 @@
+.App-5{
+    background-color: rgb(12, 241, 219);
+    border: 2px solid #f1bebe;
+    width:370px;
+    height: 270px;
+    margin: 5px  22px ;
+   display: inline-block;
+   position:center;
+   left:auto;
+}
+label{
+    padding:4px 10px;
+
+}
+.txt{
+    size:12px;
+    border-radius: 3px;
+    padding: 2.5px 2.5px;
+    margin: 2.5px 0;
+}

@@ -1,0 +1,16 @@
+.main-footer {
+    color: rgb(241, 242, 252);
+    background-color: #7f28b1;
+    padding-top: 3em;
+    position: relative;
+    width: 100%;
+    padding-bottom: 4rem;
+  }
+  .col{
+    float: left;
+    width: 33.33%;
+    padding: 8px;
+  }
+  .row{
+    height:10px;
+  }

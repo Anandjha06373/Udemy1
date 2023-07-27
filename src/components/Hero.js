@@ -7,8 +7,8 @@ const Hero = () => {
     <HeroWrapper className = "bg-black">
       <div className='container h-100 flex'>
         <div className='hero-content'>
-          <h1>Save big. Learn big.</h1>
-          <p>Shop our big sale for courses from $9.99. If you wnat to learn it, chances are we've got it. Ends Aug. 31.</p>
+          <h1>Keep Moving Up</h1>
+          <p>Learn the skills. If you want to learn it, chances are we've got it. Ends Aug. 30.</p>
         </div>
       </div>
     </HeroWrapper>
@@ -21,11 +21,11 @@ const HeroWrapper = styled.div`
 
   .container{
     .hero-content{
-      background-color: var(--clr-white);
-      max-width: 400px;
+      background-color: lightgreen;
+      max-width: 450px;
       width: 100%;
       margin-left: 0;
-      padding: 20px;
+      padding: 25px;
 
       h1{
         font-size: 32px;

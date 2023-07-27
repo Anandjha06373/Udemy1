@@ -68,3 +68,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+In Home Page U can Find Free Course of HTML.U can Watch that One Without any cost.
+U can add the item in Ur Cart By Clicking on the button Add to Cart Then U can processed for Payment
+while Clicking On Payment Button U move To new Page their U can see Different payment option U can
+Select any of them.
